@@ -1,4 +1,4 @@
-# Kruttika Sutrave
+# Your Name
 
 ## Interests
 
@@ -14,4 +14,4 @@ I have experience with various programming languages, including:
 
 ## Project
 Project description goes here. 
-Link to project
+Link to the project. 
